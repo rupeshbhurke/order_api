@@ -1,6 +1,6 @@
 ## Order API - Tutorial to use <b>Repository Patten</b> in a Laravel Application
 
-**[Link](https://www.twilio.com/blog/repository-pattern-in-laravel-application)**
+**[Tutorial Link](https://www.twilio.com/blog/repository-pattern-in-laravel-application)**
 
 ## License
 
